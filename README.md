@@ -2,6 +2,6 @@
 
 A general-purpose repository for experiments, learning, and project work.
 
-## About
+## Fullscreen Browser
 
-This repository is currently being set up. More documentation, setup instructions, and project details will be added as the project develops.
+This repository now also contains a minimal Android browser that shows a URL/search launcher, then switches to an immersive WebView with no visible browser chrome. The GitHub Actions workflow builds an R8-minified signed release APK on pushes to `main`.
